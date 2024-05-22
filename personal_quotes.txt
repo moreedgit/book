@@ -5,3 +5,5 @@ long life is not good enough
 A good life is long enough
 
 you can dream it you can do it
+
+add stash line for remote
